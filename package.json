@@ -3,6 +3,7 @@
   "displayName": "dejaypiii-theme",
   "description": "",
   "version": "0.1.0",
+  "publisher": "dejaypiii",
   "repository": {
     "type": "git",
     "url": "https://github.com/dejaypiii/dejaypiii-theme-vscode"
